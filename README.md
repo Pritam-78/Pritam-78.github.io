@@ -12,7 +12,7 @@ A powerful, web-based OSINT (Open Source Intelligence) tool designed with a Kali
 * 🔐 **Token Security:** Access restricted via Telegram Bot tokens.
 
 ## 🛠️ How to Use
-1. Open the [Live Demo](Aapka_GitHub_Pages_Link_Yaha_Dalein)
+1. Open the [Live Demo](https://pritam-78.github.io/)
 2. Select the tool you want to use.
 3. Enter the target data.
 4. When prompted for a token, join our [Telegram Channel](https://t.me/+X6qW0lrUzN5hYzA9).
